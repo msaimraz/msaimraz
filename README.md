@@ -5,7 +5,7 @@ I am Muhammad Saim Raza.
 ## My Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML5-%232c3e50?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=for-the-badge&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS3-%232c3e50?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-%232c3e50?style=for-the-badge&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
@@ -18,7 +18,7 @@ I am Muhammad Saim Raza.
 ![Material UI](https://img.shields.io/badge/-Mui-%232c3e50?style=for-the-badge&logo=mui)
 ![Node.Js](https://img.shields.io/badge/-Node.js-%232c3e50?style=for-the-badge&logo=nodedotjs)
 ![Mongo DB](https://img.shields.io/badge/-Mongo%20DB-%232c3e50?style=for-the-badge&logo=MongoDB)
-![React Native](https://img.shields.io/badge/-React%Native-%232c3e50?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-%232c3e50?style=for-the-badge&logo=react)
 
 
 
