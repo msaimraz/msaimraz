@@ -29,16 +29,20 @@ I am Muhammad Saim Raza.
 
 ## Reach Me
 
-
-<a href="https://www.linkedin.com/in/m-saim-raza">
-  <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
+<a href="mailto:msraza.02@gmail.com">
+  <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
 </a>
 <a href="https://www.facebook.com/m.saimraz">
   <img align="left" alt="Facebook" width="22px" src="./assets/facebook.svg" />
 </a>
-<a href="mailto:msraza.02@gmail.com">
-  <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
+<a href="https://www.facebook.com/m.saimraz">
+  <img align="left" alt="Facebook" width="22px" src="./assets/instagram.svg" />
 </a>
+<a href="https://www.linkedin.com/in/m-saim-raza">
+  <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
+</a>
+
+
 
 <br/>
 <br/>
