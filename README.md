@@ -35,8 +35,8 @@ I am Muhammad Saim Raza.
 <a href="https://www.facebook.com/m.saimraz">
   <img align="left" alt="Facebook" width="22px" src="./assets/facebook.svg" />
 </a>
-<a href="https://www.facebook.com/m.saimraz">
-  <img align="left" alt="Facebook" width="22px" src="./assets/instagram.svg" />
+<a href="https://www.instagram.com/m.saimraz">
+  <img align="left" alt="Instagram" src="./assets/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/m-saim-raza">
   <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
