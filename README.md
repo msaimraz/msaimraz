@@ -2,7 +2,7 @@ Hey 👋
 
 I am Muhammad Saim Raza.
 
-## My Tech Stack
+## My Tech Stack:
 
 ![HTML](https://img.shields.io/badge/-HTML5-%232c3e50?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-%232c3e50?style=for-the-badge&logo=css3)
@@ -23,11 +23,11 @@ I am Muhammad Saim Raza.
 
 
 
-## Portfolio
+## Portfolio:
 
 [www.msaimraza.com](https://msaimraza.netlify.app/)
 
-## Reach Me
+## Reach Me:
 
 <a href="mailto:msraza.02@gmail.com">
   <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
