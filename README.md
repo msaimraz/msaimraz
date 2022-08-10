@@ -25,7 +25,7 @@ I am Muhammad Saim Raza.
 
 ## Portfolio :-
 
-[www.msaimraza.com](https://msaimraza.netlify.app/)
+[www.msaimraza.com](https://msaimraza.vercel.app/)
 
 ## Reach Me :-
 
