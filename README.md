@@ -48,6 +48,6 @@ I am Muhammad Saim Raza.
 <br/>
 
 <p align="center">
-<a href="https://github.com/msaimraz"><img src="https://github-readme-stats.vercel.app/api?username=msaimraz&show_icons=true&theme=dark" alt="msaimraza's GitHub stats" /></a>
+<a href="https://github.com/msaimraz"><img src="https://github-readme-stats.vercel.app/api?username=msaimraz&show_icons=true&theme=highcontrast" alt="msaimraza's GitHub stats" /></a>
  </p>
 
