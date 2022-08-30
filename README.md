@@ -20,6 +20,8 @@ I am Muhammad Saim Raza.
 ![Express.Js](https://img.shields.io/badge/-Express.Js-%232c3e50?style=for-the-badge&logo=express)
 ![Mongo DB](https://img.shields.io/badge/-Mongo%20DB-%232c3e50?style=for-the-badge&logo=MongoDB)
 ![React Native](https://img.shields.io/badge/-React%20Native-%232c3e50?style=for-the-badge&logo=react)
+![Wordpress](https://img.shields.io/badge/-Wordpress-%232c3e50?style=for-the-badge&logo=wordpress)
+
 
 
 
