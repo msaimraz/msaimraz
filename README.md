@@ -51,7 +51,7 @@ I am Muhammad Saim Raza.
 <a href="https://github.com/msaimraz"><img src="https://github-readme-stats.vercel.app/api?username=msaimraz&show_icons=true&theme=highcontrast" alt="msaimraza's GitHub stats" /></a>
  </p>
  
- ## Hacktoberfest 2022 :-
+ ## Hacktoberfest 2023 :-
  
 [![@msaimraz's Holopin board](https://holopin.me/msaimraz)](https://holopin.io/@msaimraz)
 
