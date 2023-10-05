@@ -53,5 +53,5 @@ I am Muhammad Saim Raza.
  
  ## Hacktoberfest 2023 :-
  
-[![@msaimraz's Holopin board](https://holopin.me/msaimraz)](https://holopin.io/@msaimraz)
+[![An image of @msaimraz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/msaimraz)](https://holopin.io/@msaimraz)
 
