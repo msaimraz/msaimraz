@@ -29,7 +29,7 @@ I am Muhammad Saim Raza.
 
 [www.msaimraza.com](https://msaimraza.vercel.app/)
 
-## Reach Me :-
+## Reach Me:-
 
 <a href="mailto:msraza.02@gmail.com">
   <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
@@ -48,7 +48,7 @@ I am Muhammad Saim Raza.
 <br/>
 
 <p align="center">
-<!-- <a href="https://github.com/msaimraz"><img src="https://github-readme-stats.vercel.app/api?username=msaimraz&show_icons=true&theme=highcontrast" alt="msaimraza's GitHub stats" /></a> -->
+<a href="https://github.com/msaimraz"><img src="https://github-readme-stats.vercel.app/api?username=msaimraz&show_icons=true&theme=highcontrast" alt="msaimraza's GitHub stats" /></a>
  </p>
  
  ## Hacktoberfest 2023 :-
