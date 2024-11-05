@@ -47,11 +47,10 @@ I am Muhammad Saim Raza.
 <br/>
 <br/>
 
-<p align="center">
- <a href="https://github.com/msaimraz"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msaimraz&theme=react&border_radius=10" alt="msaimraz" /></a>
-
-<a href="https://github.com/msaimraz"><img src="https://github-readme-stats.vercel.app/api?username=msaimraz&show_icons=true&theme=highcontrast" alt="msaimraza's GitHub stats" /></a>
- </p>
+ <a align="center" href="https://github.com/msaimraz">
+  <img src="https://github-readme-stats.vercel.app/api?username=msaimraz&show_icons=true&theme=highcontrast" alt="msaimraza's GitHub stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msaimraz&theme=react&border_radius=10" alt="msaimraza's GitHub stats" />
+ </a>
  
  ## Hacktoberfest 2023 :-
  
