@@ -46,10 +46,11 @@ I am Muhammad Saim Raza.
 <br/>
 <br/>
 <br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=msaimraz&show_icons=true&theme=react&border_radius=10" alt="msaimraza's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msaimraz&show_icons=true&theme=react&border_radius=10" alt="msaimraza's GitHub stats" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=msaimraz&show_icons=true&theme=highcontrast" alt="msaimraza's GitHub stats" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msaimraz&theme=react&border_radius=10" alt="msaimraza's GitHub stats" />
- 
  ## Hacktoberfest 2023 :-
  
 [![An image of @msaimraz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/msaimraz)](https://holopin.io/@msaimraz)
