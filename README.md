@@ -21,6 +21,7 @@ I am Muhammad Saim Raza.
 ![Mongo DB](https://img.shields.io/badge/-Mongo%20DB-%232c3e50?style=for-the-badge&logo=MongoDB)
 ![React Native](https://img.shields.io/badge/-React%20Native-%232c3e50?style=for-the-badge&logo=react)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-%232c3e50?style=for-the-badge&logo=wordpress)
+![Prestashop](https://img.shields.io/badge/-prestashop-%232c3e50?style=for-the-badge&logo=prestashop)
 
 
 
@@ -37,7 +38,7 @@ I am Muhammad Saim Raza.
 <a href="https://www.facebook.com/m.saimraz">
   <img align="left" alt="Facebook" width="22px" src="./assets/facebook.svg" />
 </a>
-<a href="https://www.linkedin.com/in/m-saim-raza">
+<a href="[https://www.linkedin.com/in/m-saim-raza](https://www.linkedin.com/in/m-saim-raza)">
   <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
 </a>
 
@@ -46,9 +47,9 @@ I am Muhammad Saim Raza.
 <br/>
 <br/>
 <br/>
-<a align="center" href="[https://www.linkedin.com/in/m-saim-raza](https://github.com/msaimraz)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=msaimraz&show_icons=true&theme=react&border_radius=10" alt="msaimraza's GitHub stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msaimraz&theme=react&border_radius=10" alt="msaimraza's GitHub stats" />
+<a align="center" href="">
+  <img  src="https://github-readme-stats.vercel.app/api?username=msaimraz&show_icons=true&theme=react&border_radius=10" alt="msaimraza's GitHub stats" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=msaimraz&theme=react&border_radius=10" alt="msaimraza's GitHub stats" />
 </a>
 
  ## Hacktoberfest 2023 :-
